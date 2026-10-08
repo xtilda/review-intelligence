@@ -1,0 +1,716 @@
+[
+  {
+    "text": "The buffet is small and all the food they offered was BLAND.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "There is a brilliant twist ending.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "It's the one movie that never ceases to interest me, simply because it keeps me alert, as I try to attempt to decipher it's meanings.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The movie lacks visual interest, drama, expression of feeling, and celebration of the very patriotism that underlines the narrative.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "They do not last forever, but is not overly expensive to replace.Easy to operate and the sound is much better than others I have tried.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I give it 2 thumbs down",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "It was quite comfortable in the ear.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "So in a nutshell: 1) The restaraunt smells like a combination of a dirty fish market and a sewer.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "This place is disgusting!",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Everything is appalling.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "If you stay in Vegas you must get breakfast here at least once.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "However, after finally watching this film, I realized that not only had I had a closed mind to the brilliance it depicts, I also found myself watching it over and over again.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Food is way overpriced and portions are fucking small.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "My father has the V265, and the battery is dying.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "It was a very superficial movie and it gave me the feeling that I was watching play rather than a film.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Due to this happening on every call I was forced to stop using this headset.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I do not know if this was Emilio Estevez's directorial debut, but the pacing, the interplay and development of the characters as well as some clever camera work surrounding the character Estevez plays all suggest a natural eye.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Nice blanket of moz over top but i feel like this was done to cover up the subpar food.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "This place is overpriced, not consistent with their boba, and it really is OVERPRICED!",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "much better than the hard plastic cases.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "And the drinks are WEAK, people!",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "The only place good for this film is in the garbage.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "It's a shame to see good actors like Thomerson and James make a living in a mess like this.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I was particularly pleased with the acting ability of Dwight Schultz.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Very Displeased.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "That was funny.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Five star Plus, plus.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The internet access was fine, it the rare instance that it worked.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "It was a pale color instead of nice and char and has NO flavor.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Sam Shepard's portrayal of a gung ho Marine was sobering.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "It's AGGRAVATING!",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I felt asleep the first time I watched it, so I can recommend it for insomniacs.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Tonight I had the Elk Filet special...and it sucked.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Once you get inside you'll be impressed with the place.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Everything stinks.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I was looking for this headset for a long time and now that I've got it I couldn't be happier.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "If you want a sandwich just go to any Firehouse!!!!!",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Garbo, who showed right off the bat that her talents could carry over from the silent era (I wanted to see some of her silent work, but Netflix doesn't seem to be stocking them.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Don't be afraid of subtitles........ its worth a little aversion therapy 10/10  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "The acting, as you'd expect from this cast, is top notch.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Nothing short of magnificent photography/cinematography in this film.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Now this is a movie I really dislike.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "This is infuriating.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "The bipolarity of the ruthless thug (one minute a ruthless killer, the next minute a Luv's diaper commercial) is completely unconvincing.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "At any rate this film stinks, its not funny, and Fulci should have stayed with giallo and supernatural zombie movies.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I liked the way Dustin Hoffman's character was ready to do just about everything to stay with his son.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "What on earth is Irons doing in this film?  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "The food wasn't good.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I can say that the desserts were yummy.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Highly recommended for all ages, although the younger set will probably not appreciate some of the more subtle references, they will certainly appreciate one galley scene in particular!  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The kids play area is NASTY!",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I have this phone and it is a thorn in my side, I really abhor it.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I can assure you that you won't be disappointed.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "You won't be disappointed.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I'll put this gem up against any movie in terms of screenplay, cinematography, acting, post-production, editing, directing, or any other aspect of film-making.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The film is way too long.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "During several different 2 minute calls, I experienced 5 drops and it was in an area that had 5 bars.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Probably never coming back, and wouldn't recommend it.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "This was my first and only Vegas buffet and it did not disappoint.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "But, in any case, the best part is, you can download these pictures to your laptop using IR, or even send pictures from your laptop to the phone.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "But it picked up speed and got right to the point.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "It makes very strange ticking noises before it ends the call.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "However-the riingtones are not the best, and neither are the games.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "There's barely a boring moment in the film and there are plenty of humorous parts.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Phone now holds charge like it did when it was new.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "They keep getting better and better (this is my third one and I've had numerous Palms too).",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "My phone doesn't slide around my car now and the grip prevents my phone from slipping out of my hand.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The only consistent thread holding the series together were the amazing performances of Leni Parker and Anita LaSelva as the two Taelons in quiet idealogical conflict.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "The Ngage is still lacking in earbuds.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Overall I wasn't very impressed with Noca.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "The fish is badly made and some of its underwater shots are repeated a thousand times in the film.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "The plastic breaks really easy on this clip.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Point your finger at any item on the menu, order it and you won't be disappointed.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The results, well, are a shame.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Of course the footage from the 70s was grainy, but that only enhanced the film.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "So just beware.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "He came running after us when he realized my husband had left his sunglasses on the table.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Comfortable in my hand.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Works like a charm; it work the same as the one I got with the phone.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Regrettably, the film fails.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I believe that Pitch Black was done well.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The film deserves strong kudos for taking this stand, for having exceptional acting from its mostly lesser-known cast and for the super-intelligent script that doesn't insult the audience or take the easy way out when it comes to white racism.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "BLACK WATER is a thriller that manages to completely transcend it's limitations (it's an indie flick) by continually subverting expectations to emerge as an intense experience.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Gets a signal when other Verizon phones won't.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I'm terribly disappointed that this film would receive so many awards and accolades, especially when there are far more deserving works of film out there.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Very convenient, since we were staying at the MGM!",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Predictable, but not a bad watch.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The film succeeds despite, or perhaps because of, an obviously meagre budget.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I don't think you will be disappointed.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Some applause should be given to the \"prelude\" however.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "Will be back again!",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "This place deserves no stars.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "It shouldn't take 30 min for pancakes and eggs.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "I usually don't like headbands but this one is very lightweight & doesn't mess up my hair.",
+    "domain": "amazon_cells_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "The camera really likes her in this movie.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I bought this phone as a replacement for my StarTac and have regretted it since.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Characters are one-dimensional, even the good guys and especially the bad guys.  ",
+    "domain": "imdb_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Bland and flavorless is a good way of describing the barely tepid meat.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "Same evening, him and I are both drastically sick.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": ":) Anyway, the plot flowed smoothly and the male-bonding scenes were a hoot.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I was deeply impressed with the character he played.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "But this movie really got to me.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "For sushi on the Strip, this is the place to go.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I didn't know pulled pork could be soooo delicious.",
+    "domain": "yelp_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I left with a stomach ache and felt sick the rest of the day.",
+    "domain": "yelp_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  },
+  {
+    "text": "You learn a lot about the real inside emotions of people in this movie, and a lot about the movie business itself.  ",
+    "domain": "imdb_labelled",
+    "actual": "positive",
+    "predicted": "negative"
+  },
+  {
+    "text": "I have bought this Nokia cell phone a few weeks ago and it was a nightmare.",
+    "domain": "amazon_cells_labelled",
+    "actual": "negative",
+    "predicted": "positive"
+  }
+]
