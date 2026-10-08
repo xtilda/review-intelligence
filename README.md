@@ -40,6 +40,4 @@ Held-out results: **80.03% accuracy, 0.8003 macro F1**, 2,383 training / 596 tes
 
 Kotzias, D. (2015). *Sentiment Labelled Sentences*. UCI Machine Learning Repository. https://doi.org/10.24432/C57604. Dataset licensed CC BY 4.0. Source: https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences. The generated model and evaluation error excerpts derive from this dataset; preprocessing combines two wrapped lines, normalizes text for deduplication, and removes conflicts. No raw archive is bundled.
 
-## Deployment
 
-See [VERCEL_KURULUM.md](VERCEL_KURULUM.md). App source and this project's model artifact are MIT licensed; dataset-derived excerpts retain their source attribution/license.
